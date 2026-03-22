@@ -2,16 +2,24 @@
 
 ## Project 1: User Management API
 
+## Overview
+
+This repository contains sample API documentation for user management operations. It demonstrates how to document REST APIs, including endpoints, request/response formats, authentication, and error handling.
+
+This project is created as part of a technical writing portfolio to showcase API documentation skills.
+
+
 This project demonstrates API documentation for user-related operations including retrieving and creating users.
 
-### Features:
-
-* GET Users API
-* POST Create User API
-* Authentication
-* Error Handling
-
 ---
+## Features
+
+* REST API documentation
+* GET and POST endpoints
+* Request and response examples
+* Authentication using Bearer Token
+* Error handling with HTTP status codes
+
 
 Authentication:
 This API uses Bearer Token authentication. To access the API, include an Authorization header in all requests.
@@ -112,6 +120,20 @@ Example Error Response:
   "error": "Invalid email format"
 }
 
+
+## Tools Used
+
+* Postman (API testing)
+* Markdown (documentation)
+* GitHub (version control and hosting)
+
+
+## Author
+
+**Vishal Kasaudhan**
+Aspiring Technical Writer | API Documentation Enthusiast
+
+GitHub: https://github.com/Vishal160703
 
 
 
